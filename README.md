@@ -57,4 +57,3 @@ I am currently seeking full-time roles in **IoT Engineering, Embedded Systems, a
 * 📄 **Resume:** [Will be added soon](YOUR_RESUME_LINK_HERE)
 
 ---
-![Kesava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kesava-Satish&show_icons=true&theme=radical)

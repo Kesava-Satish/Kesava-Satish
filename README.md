@@ -42,7 +42,7 @@ I am currently seeking full-time roles in **IoT Engineering, Embedded Systems, a
 ### 📟 Embedded Devices & Prototypes
 | Repository | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **[SPURS-Smart-Pisciculture-IoT](https://github.com/Kesava-Satish/SPURS-Smart-Pisciculture-IoT)** | `ESP32` `Algorithms` `IEEE Paper` | **IEEE Published:** Breed-specific recommendation engine for 12 fish species. |
+| **[SPURS-Smart-Pisciculture](https://github.com/Kesava-Satish/SPURS-Smart-Pisciculture)** | `ESP32` `Algorithms` `IEEE Paper` | **IEEE Published:** Breed-specific recommendation engine for 12 fish species. |
 | **[Smart-Cycle-IoT-Dashboard](https://github.com/Kesava-Satish/Smart-Cycle-IoT-Dashboard)** | `Embedded C` `MPU6050` `Health` | Cycle dashboard with **automatic turn indicators** based on gyroscope tilt angles. |
 | **[Smart-Home-Intrusion-Detection](https://github.com/Kesava-Satish/Smart-Home-Intrusion-Detection)** | `ESP-NOW` `Multi-Node` `Security` | Distributed Master/Slave architecture using PIR, Shock, and Ultrasonic sensors. |
 | **[Smart-Energy-Meter-IoT](https://github.com/Kesava-Satish/Smart-Energy-Meter-IoT)** | `Blynk` `ZMPT101B` `SCT-013` | IoT meter that calculates real-time power billing and consumption trends. |
